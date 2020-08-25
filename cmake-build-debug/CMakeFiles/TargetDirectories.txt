@@ -1,0 +1,3 @@
+/Users/azat/Projects/C4EE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/azat/Projects/C4EE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/azat/Projects/C4EE/cmake-build-debug/CMakeFiles/C4EE.dir
