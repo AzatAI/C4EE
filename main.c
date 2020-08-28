@@ -1,7 +1,7 @@
 // display hello world on the computer screen
 
 // 1. Hello world
-//#include <stdio.h>// header file .  GNU
+#include <stdio.h>// header file .  GNU
 //int main(){
 //    printf("Hello, World!");
 //    return 0;
@@ -44,11 +44,52 @@
 
 //4. constants
 // constant is somewhere in memory, in which the value can't be changed.
-#include <stdio.h>
-# define PI 3.14
+//#include <stdio.h>
+//# define PI 3.14
 
-int main() {
-    // 1. using const keyword, it will save the value on the memory.
-    //    const double PI=3.14; // this will be in the memory.
-    // 2. using macro, macro will not save the value on memory, but just replaces everywhere when we need it .
-}
+//int main() {
+//    // 1. using const keyword, it will save the value on the memory.
+//    //    const double PI=3.14; // this will be in the memory.
+//    // 2. using macro, macro will not save the value on memory, but just replaces everywhere when we need it .
+//}
+//5. input and output
+// 5.2
+//#include <stdio.h>
+//int main(){
+//    char a=getchar();
+//    printf("%c\n",a);
+//    return 0;
+//}
+//int main(){
+//    char a[5];
+//    gets(a);
+//    printf("%s\n",a);
+//    return 0;
+////}
+//#include <stdio.h>
+//int main(){
+//    int age;
+//    scanf("%d",&age);
+//    printf("Mr Azat is %d years old! Owwa\n",age);
+//    return 0;
+//}
+
+#include <stdio.h>
+//int main(){
+//    float length,width;
+//    printf("Hey, enter fucking info:");
+//    scanf("%f %f",&length, &width);
+//    printf("The are of ur fucking rec is %f m\n",length*width);
+//}
+
+// out put
+
+//int main() {
+//    int x;
+//    float num;
+//    char text[20];
+//    scanf("%d %f %s", &x, &num, text);
+//    printf("%d\n %f\n %s\n",x,num,text);
+//    return 0;
+//}
+// %[*][max][d]
